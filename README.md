@@ -1,6 +1,6 @@
 # slide-tryout
 
-Markdwon-based presentation may look ugly and require additinal setups before working. Which way to go?
+Markdown-based presentation may look ugly and require additinal setups before working. Which way to go?
 
 ## tl;dr
 
