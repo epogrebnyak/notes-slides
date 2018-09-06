@@ -16,7 +16,7 @@ pandoc -t slidy -s presentation.md -o presentation-slidy.html
 - prefer newer, actively developed libraries to older ones
 - want a clean view of presentation screen 
 
-## Some things that work
+## Some things that (almost) work
 
 - foundational javascript library: https://github.com/hakimel/reveal.js (42k stars)
 - https://gitpitch.com/
